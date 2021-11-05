@@ -1,0 +1,11 @@
+API (Rest-Assured)
+
+    - Get cidade por id
+
+Lógica (JUnit5)
+
+    - Calcular distância entre 2 pontos
+        
+        - Em metros
+
+        - Em libras
