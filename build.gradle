@@ -18,6 +18,18 @@ dependencies {
 	implementation 'com.vladmihalcea:hibernate-types-52:2.9.8'
 	implementation 'org.postgresql:postgresql'
 
+	// https://mvnrepository.com/artifact/io.rest-assured/rest-assured
+	testImplementation group: 'io.rest-assured', name: 'rest-assured', version: '3.2.0'
+
+	testImplementation group: 'io.rest-assured', name: 'rest-assured-all', version: '4.0.0'
+
+	testImplementation group: 'io.rest-assured', name: 'json-path', version: '3.0.0'
+
+	testImplementation group: 'io.rest-assured', name: 'xml-path', version: '4.3.0'
+
+
+
+
 	testImplementation('org.springframework.boot:spring-boot-starter-test') {
 		exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
 	}

@@ -1,4 +1,49 @@
+### Table of Contents
+- [My Additions](#my-additions)
+    * [API Tests](#api-tests)
+        + [Postman](#postman)
+    * [Unit Tests](#unit-tests)
+- [Cities API](#cities-api)
+    * [Requirements](#requirements)
+    * [DataBase](#database)
+        + [Postgres](#postgres)
+        + [Populate](#populate)
+        + [Access](#access)
+        + [Query Earth Distance](#query-earth-distance)
+    * [Spring Boot](#spring-boot)
+        + [Spring Data](#spring-data)
+        + [Properties](#properties)
+        + [Types](#types)
+    * [Heroku](#heroku)
+    * [Code Quality](#code-quality)
+        + [PMD](#pmd)
+        + [Checkstyle](#checkstyle)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+# My Additions
+(Bootcamp Final Project)
+
+Digital Innovation One - NTT DATA Quality
+Assurance Beginner #3
+
+My additions are API Test (Rest-Assured and
+Postman) Unit Test (JUnit5)
+
+
+
+## API Tests
+
+### Postman
+
+![Cities-API - Postman - Get Cities](https://drive.google.com/uc?export=view&id=128dmp_8hvHVKyFZJmXmvpqWcGW90ArTa)
+
+## Unit Tests
+
 # Cities API
+API for distance calculation between cities. 
+Developed with Linux (Ubuntu), Git, Github, 
+Intellij, Dockers and Heroku.
 
 ## Requirements
 
